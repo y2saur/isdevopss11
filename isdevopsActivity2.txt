@@ -1,0 +1,32 @@
+******************************************************
+*	ISDEVOPS INDIVIDUAL ACTIVITY 2
+*	Date Published: May 17, 2022
+*	Author: Mendoza, L.
+*	Short Description: Docker Exercise
+******************************************************
+
+*********************************************
+*	ISDEVOPS INDIVIDUAL ACTIVITY 2
+*********************************************
+
+In preparation for our Docker Exercise on Thursday, kindly do the following
+
+1. Install VMWare Player or Virtual Box, it's up to you which one's you're more comfortable with. (VMWare is lighter than Virtual Box hehe!)
+	-- Reference: https://www.vmware.com/asean/products/workstation-player/workstation-player-evaluation.html
+	-- Reference: https://www.virtualbox.org/wiki/Downloads
+
+2. Install Ubuntu ISO
+	-- Reference; https://ubuntu.com/download
+
+3. Start and Ubuntu Server VM on either VMWare Player or Virtual Box
+
+4. Inside your new Ubuntu VM, install docker
+	-- Reference: https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu
+
+5. After installing docker, install docker-compose
+	-- Reference: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04
+
+6. You can check the suucceeding steps in the last link provided to try docker and docker-compose commands in preparation for our hands-on activity on Thursday!
+
+ENJOY!
+
